@@ -1,0 +1,61 @@
+body{
+    background-image: url("images/mint-1405613_1280.jpg");
+    background-repeat: repeat-x;
+    
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    content: "|";
+}   
+.breadcrumb { 
+    background-color: #ffffff;
+    font-family: 'Sedgwick Ave Display', cursive;
+
+}
+
+.header{
+    font-family: 'Sedgwick Ave Display', cursive;
+color: orange;
+}
+
+
+
+
+.footer{
+    background:rgb(18, 87, 31);
+    margin-top: 10rem;
+    color:#ffffff;
+    
+}
+.media{
+    background-color: #ffffff;
+    opacity: .9 ;
+    margin-top: 3rem;
+    margin-right: 3rem;
+    margin-left: 3rem;
+
+}
+
+.container{
+
+    background-color: #ffffff;
+    opacity: .9 ;
+    padding: 1rem;
+    margin-top: 3rem;
+   
+
+}
+
+/* Teal color (used for headings and backgrounds): #4aaaa5
+
+Regular font color (used for paragraphs and all text besides the headings): #777777
+
+Main header background color: #ffffff
+
+Main header border color: #cccccc
+
+Footer background color: #666666
+
+Main content background color: #ffffff
+
+Main content border color: #dddddd */
